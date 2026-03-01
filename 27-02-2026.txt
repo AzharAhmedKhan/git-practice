@@ -1,0 +1,11 @@
+make slides on Notebook LLM
+
+.gitignore
+
+virtual envirenment
+created for different projects
+
+
+requirement.txt -- contain all packages name
+ hpw to create virtaul envirement in python
+>> google it and copy paste the comand in terminal
